@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * 231232028 - Falmesino Abdul Hamid
  * 
@@ -14,8 +12,9 @@ import java.util.Scanner;
  * -19: 11101101 (Tugas 1)
  */
 
+import java.util.Scanner;
 public class Latihan2 {
-  public static void main(String[] args) {
+  public static void main(String args[]) {
     Scanner scanner = new Scanner(System.in);
 
     // Mengambil angka dari input

@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * 231232028 - Falmesino Abdul Hamid
  * 
@@ -18,9 +16,10 @@ import java.util.Scanner;
  * Masukkan nilai desimal: -13
  * Susunan bit dari 13 adalah 11111111111111111111111111110011
  */
+import java.util.Scanner;
 
 public class Latihan1 {
-  public static void main(String[] args) {
+  public static void main(String args[]) {
     Scanner scanner = new Scanner(System.in);
 
     // Mengambil angka dari input
